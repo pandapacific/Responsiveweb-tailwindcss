@@ -1,0 +1,18 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+.image-tint{
+    background-color: rgba(139, 92, 246, 0.2);
+}
+
+.triangle{
+    width: 0;
+    height: 0;
+    border-top: 7px solid transparent;
+    border-left: 12px solid rgb(139, 92, 246);
+    border-bottom: 7px solid transparent;
+}
+
+.section-1-iconbg{
+background-color: rgba(255, 255, 255, 0.2);
+}
